@@ -1,6 +1,7 @@
 # FH Wumpus Gym for AI Practical 3 at FH Aachen
 Previously created and hosted by [github.com/mhenn](https://github.com/mhenn) <br>
 For educational purposes only. <br>
+Additional Startup files created in folder "Task".
 
 ## Setup
 Clone the repository with the necessary files or download a zip. <br>
